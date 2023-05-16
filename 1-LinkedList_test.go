@@ -1,4 +1,4 @@
-package LinkedList
+package Go_Data_Structures
 
 import (
 	"testing"
